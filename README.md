@@ -1,5 +1,5 @@
 # Unix_Shell_Emulator
-A unix shell emulator writen in c that allows running commands, sending signals, and keeping track of child processes. Includes piping and input/output redirection. 
+A unix shell emulator written in c that allows running commands, sending signals, and keeping track of child processes. Includes piping and input/output redirection. 
 
 Usage (was checked, including for memory leaks, on Ubunto):
 
